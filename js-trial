@@ -1,0 +1,2 @@
+let myName = '松井真也';
+alert(myNmae);//警告として名前が表示されるはず
